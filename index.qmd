@@ -1,0 +1,61 @@
+---
+title: "Jane A. Doe"
+subtitle: "Assistant Professor of Economics"
+format:
+  html:
+    page-layout: full
+---
+
+::: {.hero}
+::: {.hero-copy}
+<p class="eyebrow">Department of Economics</p>
+
+# Studying how markets, policy, and institutions shape opportunity.
+
+I am an economist working at the intersection of labor markets, public policy, and development. My research combines applied microeconomics, causal inference, and policy evaluation to understand how institutions affect employment, inequality, and public outcomes.
+
+<div class="hero-links">
+  <a href="research.qmd" class="button primary">Read my research</a>
+  <a href="cv.qmd" class="button secondary">View CV</a>
+</div>
+:::
+
+::: {.profile-card}
+![](https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=900&q=80){fig-alt="Portrait of Jane A. Doe"}
+
+### Current appointment
+
+Assistant Professor  
+Department of Economics  
+Northwestern Policy Institute
+:::
+:::
+
+## Research interests
+
+- Labor economics and wage inequality
+- Public finance and tax policy
+- Human capital, education, and social mobility
+- Applied causal inference and policy evaluation
+- Development economics and urban policy
+
+## Selected recent work
+
+::: {.grid}
+::: {.gutter}
+### [Labor Market Frictions and the Geography of Employment](research.qmd)
+Examines how commuting constraints and local labor demand shocks affect job matching, wages, and labor supply across metropolitan labor markets.
+
+### [Public Finance in the Age of Automation](research.qmd)
+Studies the distributional consequences of tax policy when technological change alters the skill composition of work.
+
+### [Education Policy and Long-run Mobility](research.qmd)
+Uses administrative data to evaluate how tuition subsidies and academic support programs alter graduation and earnings trajectories.
+:::
+:::
+
+## News
+
+- 2026: New working paper on wage dispersion and regional labor markets.
+- 2025: Invited speaker, Midwest Economics Association annual meeting.
+- 2024: Grant awarded for study of public insurance and labor supply.

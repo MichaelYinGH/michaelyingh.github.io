@@ -1,0 +1,47 @@
+---
+title: "CV"
+---
+
+## Academic positions
+
+- Assistant Professor, Department of Economics, Northwestern Policy Institute, 2022–present
+- Postdoctoral Fellow, Brookings Institute, 2018–2021
+
+## Education
+
+- Ph.D. in Economics, University of Michigan, 2018
+- M.A. in Economics, University of Michigan, 2014
+- B.A. in Economics and Mathematics, University of Wisconsin–Madison, 2012
+
+## Research fields
+
+- Labor economics
+- Public finance
+- Development economics
+- Applied econometrics
+
+## Publications
+
+1. Doe, J. A., and S. Patel. "Tax Incidence and Household Consumption." *American Economic Journal: Economic Policy* 16(2), 2024.
+2. Doe, J. A., A. Ramirez, and L. Chen. "Wage Compression and Local Labor Demand." *Journal of Labor Economics* 43(1), 2025.
+
+## Working papers
+
+- Labor Market Frictions and the Geography of Employment
+- Public Finance in the Age of Automation
+- Education Policy and Long-run Mobility
+
+## Teaching
+
+- ECON 501: Microeconomic Theory
+- ECON 422: Applied Econometrics
+- ECON 310: Public Economics
+- ECON 340: Labor Economics
+
+## Service
+
+- Referee, *Journal of Public Economics*
+- Member, Graduate Curriculum Committee
+- Organizer, Urban Labor and Policy seminar series
+
+[Download CV (PDF)](#)

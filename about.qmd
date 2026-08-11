@@ -1,0 +1,34 @@
+---
+title: "About"
+---
+
+I am an economist whose work studies how institutions shape economic opportunity. My research combines administrative data, quasi-experimental methods, and policy design to answer questions about labor markets, public finance, and social mobility.
+
+## Education
+
+- Ph.D. in Economics, University of Michigan, 2018
+- M.A. in Economics, University of Michigan, 2014
+- B.A. in Economics and Mathematics, University of Wisconsin–Madison, 2012
+
+## Appointments
+
+- Assistant Professor, Department of Economics, Northwestern Policy Institute, 2022–present
+- Research Fellow, Center for Economic Opportunity and Social Mobility, 2021–present
+- Postdoctoral Fellow, Brookings Institute, 2018–2021
+
+## Research focus
+
+My work is guided by a simple question: when policy changes the incentives facing workers and firms, which outcomes improve, and for whom? My studies evaluate public programs, labor market institutions, and human capital policies using rigorous causal methods and large-scale administrative data.
+
+## Affiliations
+
+- American Economic Association
+- Society of Labor Economists
+- Association for Public Policy Analysis and Management
+
+## Teaching
+
+- Microeconomic Theory
+- Applied Econometrics
+- Public Economics
+- Labor Economics

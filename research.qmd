@@ -1,0 +1,38 @@
+---
+title: "Research"
+---
+
+## Working papers
+
+### 1. Labor Market Frictions and the Geography of Employment
+
+*with A. Ramirez and L. Chen*  
+This paper studies how job-search frictions and housing costs influence regional labor market outcomes. Using worker-level administrative panel data from twenty cities, we estimate how commuting constraints and local demand shocks alter labor force participation, wages, and occupational sorting.
+
+### 2. Public Finance in the Age of Automation
+
+*with S. Patel*  
+We analyze how tax and transfer systems should adapt when automation changes the composition of work. The paper evaluates distributional consequences under alternative revenue systems and discusses implications for social insurance and tax fairness.
+
+### 3. Education Policy and Long-run Mobility
+
+*with M. Osei*  
+This project explores how tuition assistance, advising, and academic support affect graduation and earnings outcomes for first-generation college students. Using a longitudinal administrative dataset, we find that targeted support increases degree completion and reduces early-career earnings inequality.
+
+## Selected publications
+
+### Wage Compression and Local Labor Demand
+
+*Journal of Labor Economics* (2025)  
+This article estimates the effect of transportation improvements on local labor market inequality. It finds that reduced commuting costs increase job matching and mitigate wage dispersion in constrained urban labor markets.
+
+### Tax Incidence and Household Consumption
+
+*American Economic Journal: Economic Policy* (2024)  
+The paper estimates how local tax changes pass through to household consumption and labor supply decisions, showing heterogeneous responses across income groups.
+
+## Grants and awards
+
+- National Science Foundation, Research Grant, 2025
+- Russell Sage Foundation, Small Grant, 2024
+- Best Paper Award, Midwest Labor Workshop, 2023
