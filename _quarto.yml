@@ -4,6 +4,7 @@ project:
 
 website:
   description: "Doctoral Student at Chicago Booth | Micro Theory, Market Design, and EconCS"
+  favicon: files/michael_yin_headshot.jpeg
   navbar:
     left:
       - text: About

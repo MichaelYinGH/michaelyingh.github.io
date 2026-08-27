@@ -2,28 +2,28 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "",
+    "title": "Research",
     "section": "",
     "text": "Latest Version\nAdvised by Olivier Tercieux\nWe consider a two-sided one-to-many matching problem with congestion: using college admissions for concreteness, we assume it is costly for colleges to determine their preferences over students. Given this setting, we introduce the concept of matching procedures, which extend classic matching mechanisms to include different strategies for eliciting the preferences of colleges. We outline several natural procedures, one of which is effectively used in many real-world applications already. We further define the novel properties of efficiency and privacy, which describe how procedures avoid unnecessarily eliciting colleges’ preferences and inadvertently revealing students’ preferences, respectively. We analyze these and other key properties for procedures that extend student-proposing deferred acceptance. In doing so, we show that efficiency and privacy are at odds for important classes of procedures and matching problems: the maximally private procedure is minimally efficient, and the maximally efficient procedure is minimally private."
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
-    "title": "",
+    "title": "Research",
     "section": "",
     "text": "Latest Version\nAdvised by Olivier Tercieux\nWe consider a two-sided one-to-many matching problem with congestion: using college admissions for concreteness, we assume it is costly for colleges to determine their preferences over students. Given this setting, we introduce the concept of matching procedures, which extend classic matching mechanisms to include different strategies for eliciting the preferences of colleges. We outline several natural procedures, one of which is effectively used in many real-world applications already. We further define the novel properties of efficiency and privacy, which describe how procedures avoid unnecessarily eliciting colleges’ preferences and inadvertently revealing students’ preferences, respectively. We analyze these and other key properties for procedures that extend student-proposing deferred acceptance. In doing so, we show that efficiency and privacy are at odds for important classes of procedures and matching problems: the maximally private procedure is minimally efficient, and the maximally efficient procedure is minimally private."
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
-    "title": "",
+    "title": "Research",
     "section": "Publications",
     "text": "Publications\n\nMulti-District School Choice: Playing on Several Fields\nProceedings of the AAAI Conference on Artificial Intelligence (2026)\nFull Version | AAAI Version\nCo-authored with Yannai Gonczarowski and Shirley Zhang; oral presentation at AAAI-26\nWe extend the seminal model of Pathak and Sönmez (2008) to a setting with multiple school districts, each running its own separate centralized match, and focus on the case of two districts. In our setting, in addition to each student being either sincere or sophisticated, she is also either constrained—able to apply only to schools within her own district of residence—or unconstrained—able to choose any single district within which to apply. We show that several key results from Pathak and Sönmez (2008) qualitatively flip: A sophisticated student may prefer for a sincere student to become sophisticated, and a sophisticated student may prefer for her own district to use Deferred Acceptance over the Boston Mechanism, irrespective of the mechanism used by the other district. We furthermore show that an unconstrained student may prefer for a constrained student to become unconstrained, regardless of the mechanisms used. Many of these phenomena appear abundantly in large random markets."
   },
   {
     "objectID": "research.html#awards",
     "href": "research.html#awards",
-    "title": "",
+    "title": "Research",
     "section": "Awards",
     "text": "Awards\n\nRoss Stevens Doctoral Program Fellowship (Chicago Booth)2026\nHoopes Prize (Harvard)2022"
   },

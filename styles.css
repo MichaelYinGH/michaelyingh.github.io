@@ -6,6 +6,22 @@
 	text-align: center;
 }
 
+.content a {
+	color: var(--bs-info);
+}
+
+.content a:hover {
+	color: color-mix(in srgb, var(--bs-info), black 20%);
+}
+
+.content a.external::after {
+	filter: hue-rotate(105deg) saturate(1.1);
+}
+
+.content a.external:hover::after {
+	filter: hue-rotate(105deg) saturate(1.1) brightness(0.8);
+}
+
 .profile-photo {
 	display: block;
 	width: min(220px, 100%);
