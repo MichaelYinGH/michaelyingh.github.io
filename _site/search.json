@@ -2,183 +2,64 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "",
     "section": "",
-    "text": "with A. Ramirez and L. Chen\nThis paper studies how job-search frictions and housing costs influence regional labor market outcomes. Using worker-level administrative panel data from twenty cities, we estimate how commuting constraints and local demand shocks alter labor force participation, wages, and occupational sorting.\n\n\n\nwith S. Patel\nWe analyze how tax and transfer systems should adapt when automation changes the composition of work. The paper evaluates distributional consequences under alternative revenue systems and discusses implications for social insurance and tax fairness.\n\n\n\nwith M. Osei\nThis project explores how tuition assistance, advising, and academic support affect graduation and earnings outcomes for first-generation college students. Using a longitudinal administrative dataset, we find that targeted support increases degree completion and reduces early-career earnings inequality."
+    "text": "Latest Version\nAdvised by Olivier Tercieux\nWe consider a two-sided one-to-many matching problem with congestion: using college admissions for concreteness, we assume it is costly for colleges to determine their preferences over students. Given this setting, we introduce the concept of matching procedures, which extend classic matching mechanisms to include different strategies for eliciting the preferences of colleges. We outline several natural procedures, one of which is effectively used in many real-world applications already. We further define the novel properties of efficiency and privacy, which describe how procedures avoid unnecessarily eliciting colleges’ preferences and inadvertently revealing students’ preferences, respectively. We analyze these and other key properties for procedures that extend student-proposing deferred acceptance. In doing so, we show that efficiency and privacy are at odds for important classes of procedures and matching problems: the maximally private procedure is minimally efficient, and the maximally efficient procedure is minimally private."
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
-    "title": "Research",
+    "title": "",
     "section": "",
-    "text": "with A. Ramirez and L. Chen\nThis paper studies how job-search frictions and housing costs influence regional labor market outcomes. Using worker-level administrative panel data from twenty cities, we estimate how commuting constraints and local demand shocks alter labor force participation, wages, and occupational sorting.\n\n\n\nwith S. Patel\nWe analyze how tax and transfer systems should adapt when automation changes the composition of work. The paper evaluates distributional consequences under alternative revenue systems and discusses implications for social insurance and tax fairness.\n\n\n\nwith M. Osei\nThis project explores how tuition assistance, advising, and academic support affect graduation and earnings outcomes for first-generation college students. Using a longitudinal administrative dataset, we find that targeted support increases degree completion and reduces early-career earnings inequality."
+    "text": "Latest Version\nAdvised by Olivier Tercieux\nWe consider a two-sided one-to-many matching problem with congestion: using college admissions for concreteness, we assume it is costly for colleges to determine their preferences over students. Given this setting, we introduce the concept of matching procedures, which extend classic matching mechanisms to include different strategies for eliciting the preferences of colleges. We outline several natural procedures, one of which is effectively used in many real-world applications already. We further define the novel properties of efficiency and privacy, which describe how procedures avoid unnecessarily eliciting colleges’ preferences and inadvertently revealing students’ preferences, respectively. We analyze these and other key properties for procedures that extend student-proposing deferred acceptance. In doing so, we show that efficiency and privacy are at odds for important classes of procedures and matching problems: the maximally private procedure is minimally efficient, and the maximally efficient procedure is minimally private."
   },
   {
-    "objectID": "research.html#selected-publications",
-    "href": "research.html#selected-publications",
-    "title": "Research",
-    "section": "Selected publications",
-    "text": "Selected publications\n\nWage Compression and Local Labor Demand\nJournal of Labor Economics (2025)\nThis article estimates the effect of transportation improvements on local labor market inequality. It finds that reduced commuting costs increase job matching and mitigate wage dispersion in constrained urban labor markets.\n\n\nTax Incidence and Household Consumption\nAmerican Economic Journal: Economic Policy (2024)\nThe paper estimates how local tax changes pass through to household consumption and labor supply decisions, showing heterogeneous responses across income groups."
-  },
-  {
-    "objectID": "research.html#grants-and-awards",
-    "href": "research.html#grants-and-awards",
-    "title": "Research",
-    "section": "Grants and awards",
-    "text": "Grants and awards\n\nNational Science Foundation, Research Grant, 2025\nRussell Sage Foundation, Small Grant, 2024\nBest Paper Award, Midwest Labor Workshop, 2023"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Assistant Professor, Department of Economics, Northwestern Policy Institute, 2022–present\nPostdoctoral Fellow, Brookings Institute, 2018–2021"
-  },
-  {
-    "objectID": "cv.html#academic-positions",
-    "href": "cv.html#academic-positions",
-    "title": "CV",
-    "section": "",
-    "text": "Assistant Professor, Department of Economics, Northwestern Policy Institute, 2022–present\nPostdoctoral Fellow, Brookings Institute, 2018–2021"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\n\nPh.D. in Economics, University of Michigan, 2018\nM.A. in Economics, University of Michigan, 2014\nB.A. in Economics and Mathematics, University of Wisconsin–Madison, 2012"
-  },
-  {
-    "objectID": "cv.html#research-fields",
-    "href": "cv.html#research-fields",
-    "title": "CV",
-    "section": "Research fields",
-    "text": "Research fields\n\nLabor economics\nPublic finance\nDevelopment economics\nApplied econometrics"
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "CV",
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "",
     "section": "Publications",
-    "text": "Publications\n\nDoe, J. A., and S. Patel. “Tax Incidence and Household Consumption.” American Economic Journal: Economic Policy 16(2), 2024.\nDoe, J. A., A. Ramirez, and L. Chen. “Wage Compression and Local Labor Demand.” Journal of Labor Economics 43(1), 2025."
+    "text": "Publications\n\nMulti-District School Choice: Playing on Several Fields\nProceedings of the AAAI Conference on Artificial Intelligence (2026)\nFull Version | AAAI Version\nCo-authored with Yannai Gonczarowski and Shirley Zhang; oral presentation at AAAI-26\nWe extend the seminal model of Pathak and Sönmez (2008) to a setting with multiple school districts, each running its own separate centralized match, and focus on the case of two districts. In our setting, in addition to each student being either sincere or sophisticated, she is also either constrained—able to apply only to schools within her own district of residence—or unconstrained—able to choose any single district within which to apply. We show that several key results from Pathak and Sönmez (2008) qualitatively flip: A sophisticated student may prefer for a sincere student to become sophisticated, and a sophisticated student may prefer for her own district to use Deferred Acceptance over the Boston Mechanism, irrespective of the mechanism used by the other district. We furthermore show that an unconstrained student may prefer for a constrained student to become unconstrained, regardless of the mechanisms used. Many of these phenomena appear abundantly in large random markets."
   },
   {
-    "objectID": "cv.html#working-papers",
-    "href": "cv.html#working-papers",
-    "title": "CV",
-    "section": "Working papers",
-    "text": "Working papers\n\nLabor Market Frictions and the Geography of Employment\nPublic Finance in the Age of Automation\nEducation Policy and Long-run Mobility"
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "CV",
-    "section": "Teaching",
-    "text": "Teaching\n\nECON 501: Microeconomic Theory\nECON 422: Applied Econometrics\nECON 310: Public Economics\nECON 340: Labor Economics"
-  },
-  {
-    "objectID": "cv.html#service",
-    "href": "cv.html#service",
-    "title": "CV",
-    "section": "Service",
-    "text": "Service\n\nReferee, Journal of Public Economics\nMember, Graduate Curriculum Committee\nOrganizer, Urban Labor and Policy seminar series\n\nDownload CV (PDF)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am an economist whose work studies how institutions shape economic opportunity. My research combines administrative data, quasi-experimental methods, and policy design to answer questions about labor markets, public finance, and social mobility."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n\nPh.D. in Economics, University of Michigan, 2018\nM.A. in Economics, University of Michigan, 2014\nB.A. in Economics and Mathematics, University of Wisconsin–Madison, 2012"
-  },
-  {
-    "objectID": "about.html#appointments",
-    "href": "about.html#appointments",
-    "title": "About",
-    "section": "Appointments",
-    "text": "Appointments\n\nAssistant Professor, Department of Economics, Northwestern Policy Institute, 2022–present\nResearch Fellow, Center for Economic Opportunity and Social Mobility, 2021–present\nPostdoctoral Fellow, Brookings Institute, 2018–2021"
-  },
-  {
-    "objectID": "about.html#research-focus",
-    "href": "about.html#research-focus",
-    "title": "About",
-    "section": "Research focus",
-    "text": "Research focus\nMy work is guided by a simple question: when policy changes the incentives facing workers and firms, which outcomes improve, and for whom? My studies evaluate public programs, labor market institutions, and human capital policies using rigorous causal methods and large-scale administrative data."
-  },
-  {
-    "objectID": "about.html#affiliations",
-    "href": "about.html#affiliations",
-    "title": "About",
-    "section": "Affiliations",
-    "text": "Affiliations\n\nAmerican Economic Association\nSociety of Labor Economists\nAssociation for Public Policy Analysis and Management"
-  },
-  {
-    "objectID": "about.html#teaching",
-    "href": "about.html#teaching",
-    "title": "About",
-    "section": "Teaching",
-    "text": "Teaching\n\nMicroeconomic Theory\nApplied Econometrics\nPublic Economics\nLabor Economics"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "I welcome inquiries about research collaborations, student advising, and public policy discussions."
-  },
-  {
-    "objectID": "contact.html#contact-information",
-    "href": "contact.html#contact-information",
-    "title": "Contact",
-    "section": "Contact information",
-    "text": "Contact information\n\nEmail: jane.doe@university.edu\nOffice: 214 Bell Hall, Department of Economics, Northwestern Policy Institute\nPhone: +1 (555) 123-4567"
-  },
-  {
-    "objectID": "contact.html#academic-profiles",
-    "href": "contact.html#academic-profiles",
-    "title": "Contact",
-    "section": "Academic profiles",
-    "text": "Academic profiles\n\nGoogle Scholar\nORCID\nGitHub\nLinkedIn"
-  },
-  {
-    "objectID": "contact.html#mailing-address",
-    "href": "contact.html#mailing-address",
-    "title": "Contact",
-    "section": "Mailing address",
-    "text": "Mailing address\nNorthwestern Policy Institute\nDepartment of Economics\n214 Bell Hall\n123 University Drive\nBoston, MA 02115"
+    "objectID": "research.html#awards",
+    "href": "research.html#awards",
+    "title": "",
+    "section": "Awards",
+    "text": "Awards\n\nRoss Stevens Doctoral Program Fellowship (Chicago Booth)2026\nHoopes Prize (Harvard)2022"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jane A. Doe",
+    "title": "Michael Yin",
     "section": "",
-    "text": "Department of Economics\n\n\n\nI am an economist working at the intersection of labor markets, public policy, and development. My research combines applied microeconomics, causal inference, and policy evaluation to understand how institutions affect employment, inequality, and public outcomes.\n\nRead my research View CV\n\n\n\n\n\n\n\nAssistant Professor\nDepartment of Economics\nNorthwestern Policy Institute"
+    "text": "I am a first year PhD candidate at the University of Chicago Booth School of Business. I am interested in matching with endogenous market selection and privacy constraints, as well as applications like school choice and tech platforms. More broadly, I am a microeconomic theorist focused on market design and the intersection of economics and computer science."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Jane A. Doe",
-    "section": "Research interests",
-    "text": "Research interests\n\nLabor economics and wage inequality\nPublic finance and tax policy\nHuman capital, education, and social mobility\nApplied causal inference and policy evaluation\nDevelopment economics and urban policy"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Michael Yin",
+    "section": "Education",
+    "text": "Education\n\nMaster Analysis and Policy in Economics (Summa Cum Laude)Paris School of Economics, 2025—26\nMaster of Arts in Statistics (Concurrent Masters Program)Harvard University, 2021—22\nBachelor of Arts in Applied Mathematics (Summa Cum Laude)Harvard University, 2018—22"
   },
   {
-    "objectID": "index.html#selected-recent-work",
-    "href": "index.html#selected-recent-work",
-    "title": "Jane A. Doe",
-    "section": "Selected recent work",
-    "text": "Selected recent work\n\n\n\nLabor Market Frictions and the Geography of Employment\nExamines how commuting constraints and local labor demand shocks affect job matching, wages, and labor supply across metropolitan labor markets.\n\n\nPublic Finance in the Age of Automation\nStudies the distributional consequences of tax policy when technological change alters the skill composition of work.\n\n\nEducation Policy and Long-run Mobility\nUses administrative data to evaluate how tuition subsidies and academic support programs alter graduation and earnings trajectories."
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Michael Yin",
+    "section": "Experience",
+    "text": "Experience\n\nData Scientist at Holocene Advisors2023—25\nData Science Analyst at Blackstone2022—23\nQuantitative Research Intern at QuantCo2020—21\nLabor and Poverty Intern at the Council of Economic Advisors2019"
   },
   {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Jane A. Doe",
-    "section": "News",
-    "text": "News\n\n2026: New working paper on wage dispersion and regional labor markets.\n2025: Invited speaker, Midwest Economics Association annual meeting.\n2024: Grant awarded for study of public insurance and labor supply."
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Michael Yin",
+    "section": "Teaching",
+    "text": "Teaching\n\nInference (Harvard Stat 111)2021\nEconometrics (Harvard Ec 1126)2020\nMicro Theory (Harvard Ec 1011a)2019"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Michael Yin",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: michael.yin (at) chicagobooth.edu"
   }
 ]

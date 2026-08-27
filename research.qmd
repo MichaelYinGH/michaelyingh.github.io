@@ -1,38 +1,26 @@
----
-title: "Research"
----
+## Working Papers
 
-## Working papers
+### The Efficiency-Privacy Tradeoff in Two-Sided Matching with Congestion
 
-### 1. Labor Market Frictions and the Geography of Employment
+[Latest Version](https://drive.google.com/file/d/1LER58x1u3-2ahJJE5PsTIfrLHtHtu_sa/view?usp=sharing){.external target="_blank"}
 
-*with A. Ramirez and L. Chen*  
-This paper studies how job-search frictions and housing costs influence regional labor market outcomes. Using worker-level administrative panel data from twenty cities, we estimate how commuting constraints and local demand shocks alter labor force participation, wages, and occupational sorting.
+*Advised by Olivier Tercieux*
 
-### 2. Public Finance in the Age of Automation
+We consider a two-sided one-to-many matching problem with congestion: using college admissions for concreteness, we assume it is costly for colleges to determine their preferences over students. Given this setting, we introduce the concept of matching procedures, which extend classic matching mechanisms to include different strategies for eliciting the preferences of colleges. We outline several natural procedures, one of which is effectively used in many real-world applications already. We further define the novel properties of efficiency and privacy, which describe how procedures avoid unnecessarily eliciting colleges’ preferences and inadvertently revealing students’ preferences, respectively. We analyze these and other key properties for procedures that extend student-proposing deferred acceptance. In doing so, we show that efficiency and privacy are at odds for important classes of procedures and matching problems: the maximally private procedure is minimally efficient, and the maximally efficient procedure is minimally private.
 
-*with S. Patel*  
-We analyze how tax and transfer systems should adapt when automation changes the composition of work. The paper evaluates distributional consequences under alternative revenue systems and discusses implications for social insurance and tax fairness.
+## Publications
 
-### 3. Education Policy and Long-run Mobility
+### Multi-District School Choice: Playing on Several Fields
 
-*with M. Osei*  
-This project explores how tuition assistance, advising, and academic support affect graduation and earnings outcomes for first-generation college students. Using a longitudinal administrative dataset, we find that targeted support increases degree completion and reduces early-career earnings inequality.
+*Proceedings of the AAAI Conference on Artificial Intelligence* (2026)
 
-## Selected publications
+[Full Version](https://arxiv.org/abs/2403.04530){.external target="_blank"}&emsp;|&emsp;[AAAI Version](https://ojs.aaai.org/index.php/AAAI/article/view/38745){.external target="_blank"}
 
-### Wage Compression and Local Labor Demand
+*Co-authored with Yannai Gonczarowski and Shirley Zhang; oral presentation at AAAI-26*
 
-*Journal of Labor Economics* (2025)  
-This article estimates the effect of transportation improvements on local labor market inequality. It finds that reduced commuting costs increase job matching and mitigate wage dispersion in constrained urban labor markets.
+We extend the seminal model of Pathak and Sönmez (2008) to a setting with multiple school districts, each running its own separate centralized match, and focus on the case of two districts. In our setting, in addition to each student being either sincere or sophisticated, she is also either constrained—able to apply only to schools within her own district of residence—or unconstrained—able to choose any single district within which to apply. We show that several key results from Pathak and Sönmez (2008) qualitatively flip: A sophisticated student may prefer for a sincere student to become sophisticated, and a sophisticated student may prefer for her own district to use Deferred Acceptance over the Boston Mechanism, irrespective of the mechanism used by the other district. We furthermore show that an unconstrained student may prefer for a constrained student to become unconstrained, regardless of the mechanisms used. Many of these phenomena appear abundantly in large random markets.
 
-### Tax Incidence and Household Consumption
+## Awards
 
-*American Economic Journal: Economic Policy* (2024)  
-The paper estimates how local tax changes pass through to household consumption and labor supply decisions, showing heterogeneous responses across income groups.
-
-## Grants and awards
-
-- National Science Foundation, Research Grant, 2025
-- Russell Sage Foundation, Small Grant, 2024
-- Best Paper Award, Midwest Labor Workshop, 2023
+- Ross Stevens Doctoral Program Fellowship (Chicago Booth)<span class="right">2026</span>
+- Hoopes Prize (Harvard)<span class="right">2022</span>

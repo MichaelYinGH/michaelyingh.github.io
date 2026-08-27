@@ -1,61 +1,34 @@
 ---
-title: "Jane A. Doe"
-subtitle: "Assistant Professor of Economics"
+title: "Michael Yin"
+subtitle: "&emsp;&emsp;Doctoral Student at Chicago Booth&emsp;|&emsp;Micro Theory, Market Design, & EconCS"
 format:
   html:
     page-layout: full
 ---
 
-::: {.hero}
-::: {.hero-copy}
-<p class="eyebrow">Department of Economics</p>
+![](files/michael_yin_headshot.jpeg){.profile-photo}
 
-# Studying how markets, policy, and institutions shape opportunity.
+I am a first year PhD candidate at the University of Chicago Booth School of Business. I am interested in matching with endogenous market selection and privacy constraints, as well as applications like school choice and tech platforms. More broadly, I am a microeconomic theorist focused on market design and the intersection of economics and computer science.
 
-I am an economist working at the intersection of labor markets, public policy, and development. My research combines applied microeconomics, causal inference, and policy evaluation to understand how institutions affect employment, inequality, and public outcomes.
+## Education
 
-<div class="hero-links">
-  <a href="research.qmd" class="button primary">Read my research</a>
-  <a href="cv.qmd" class="button secondary">View CV</a>
-</div>
-:::
+- Master Analysis and Policy in Economics (Summa Cum Laude)<span class="right">Paris School of Economics, 2025—26</span>
+- Master of Arts in Statistics (Concurrent Masters Program)<span class="right">Harvard University, 2021—22</span>
+- Bachelor of Arts in Applied Mathematics (Summa Cum Laude)<span class="right">Harvard University, 2018—22</span>
 
-::: {.profile-card}
-![](https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=900&q=80){fig-alt="Portrait of Jane A. Doe"}
+## Experience
 
-### Current appointment
+- Data Scientist at Holocene Advisors<span class="right">2023—25</span>
+- Data Science Analyst at Blackstone<span class="right">2022—23</span>
+- Quantitative Research Intern at QuantCo<span class="right">2020—21</span>
+- Labor and Poverty Intern at the Council of Economic Advisors<span class="right">2019</span>
 
-Assistant Professor  
-Department of Economics  
-Northwestern Policy Institute
-:::
-:::
+## Teaching
 
-## Research interests
+- Inference (Harvard Stat 111)<span class="right">2021</span>
+- Econometrics (Harvard Ec 1126)<span class="right">2020</span>
+- Micro Theory (Harvard Ec 1011a)<span class="right">2019</span>
 
-- Labor economics and wage inequality
-- Public finance and tax policy
-- Human capital, education, and social mobility
-- Applied causal inference and policy evaluation
-- Development economics and urban policy
+## Contact
 
-## Selected recent work
-
-::: {.grid}
-::: {.gutter}
-### [Labor Market Frictions and the Geography of Employment](research.qmd)
-Examines how commuting constraints and local labor demand shocks affect job matching, wages, and labor supply across metropolitan labor markets.
-
-### [Public Finance in the Age of Automation](research.qmd)
-Studies the distributional consequences of tax policy when technological change alters the skill composition of work.
-
-### [Education Policy and Long-run Mobility](research.qmd)
-Uses administrative data to evaluate how tuition subsidies and academic support programs alter graduation and earnings trajectories.
-:::
-:::
-
-## News
-
-- 2026: New working paper on wage dispersion and regional labor markets.
-- 2025: Invited speaker, Midwest Economics Association annual meeting.
-- 2024: Grant awarded for study of public insurance and labor supply.
+- Email: michael.yin (at) chicagobooth.edu
