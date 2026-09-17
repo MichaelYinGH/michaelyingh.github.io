@@ -37,6 +37,17 @@
 	white-space: nowrap;
 }
 
+@media (max-width: 575px) {
+	.right {
+		float: none;
+		display: block;
+		margin-left: 0;
+		white-space: normal;
+		font-size: 0.875em;
+		opacity: 0.75;
+	}
+}
+
 .cv-pdf {
 	display: block;
 	width: 100%;
