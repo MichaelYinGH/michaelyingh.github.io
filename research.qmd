@@ -27,5 +27,5 @@ We extend the seminal model of Pathak and Sönmez (2008) to a setting with multi
 
 ## Awards
 
-- Ross Stevens Doctoral Program Fellowship (Chicago Booth)<span class="right">2026</span>
+- Ross Stevens Fellow (Chicago Booth)<span class="right">2026</span>
 - Hoopes Prize (Harvard)<span class="right">2022</span>
